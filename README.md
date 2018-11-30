@@ -1,40 +1,25 @@
-# Project Name
+# SEO Multisite Installation
+ 
+Seo Main (WpEngine URL)
+http://seo1963.wpengine.com
 
-**Demo URL:** 
+Actual URLs
 Seo Main
-http://seomainsite.wpengine.com/
+https://www.seo-usa.org/
 
 Seo Career
-http://seocareer.seomainsite.wpengine.com
+http://career.seo-usa.org/
 
 Seo Law
-http://seolaw.seomainsite.wpengine.com
+http://law.seo-usa.org/
 
 Seo Scholars
-http://seoscholars.seomainsite.wpengine.com
+http://scholars.seo-usa.org/
 
 Seo Alternative Investments
-http://seoalternativeinvestments.seomainsite.wpengine.com
+http://ai.seo-usa.org/
 
 **Local URL:** If you have BrowserSync or any test scripts configured to look for a specific local URL, note it here
-
-[**Confluence Documentation**] https://bluestatedigital.atlassian.net/secure/RapidBoard.jspa?rapidView=76&projectKey=SEOC&view=detail&selectedIssue=SEOC-2
-
-[**Style Guide**]
-Seo Main
-http://seomainsite.wpengine.com/wp-content/themes/seo-main/assets/styleguide/index.html#
-
-Seo Career
-http://seocareer.seomainsite.wpengine.com/wp-content/themes/seo-career/assets/styleguide/index.html#/
-
-Seo Law
-http://seolaw.seomainsite.wpengine.com/wp-content/themes/seo-law/assets/styleguide/index.html#/
-
-Seo Scholars
-http://seoscholars.seomainsite.wpengine.com/wp-content/themes/seo-scholars/assets/styleguide/index.html#/
-
-Seo Alternative Investments
-http://seoalternativeinvestments.seomainsite.wpengine.com/wp-content/themes/seo-alt_investments/assets/styleguide/index.html#
 
 ---
 
